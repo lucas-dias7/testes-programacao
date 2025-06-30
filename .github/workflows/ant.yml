@@ -1,0 +1,13 @@
+alert("Olá, tudo bem?");
+let diaDaSemana = prompt("Qual dia da semana é hoje?");
+let finalDeSemana = ("sabado")
+let finalDeSemana1 = ("domingo")
+
+if (finalDeSemana == diaDaSemana) {
+    alert("Bom final de semana! :) ");
+} else if (finalDeSemana1 == diaDaSemana) {
+    alert("Bom final de semana! :) ");
+}
+else {
+    alert("Boa semana! :)" );
+}
